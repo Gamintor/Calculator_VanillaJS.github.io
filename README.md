@@ -1,1 +1,1 @@
-# Calculator_VanillaJS.github.io
+A simple calculator made with HTML,CSS and JS only!
